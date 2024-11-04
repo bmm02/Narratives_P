@@ -1,0 +1,602 @@
+{
+  "assetCategories": {
+    "surface": {
+      "rock": {
+        "rough": {}
+      }
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "surface",
+    "rock",
+    "rough"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.449613,
+  "displacementCalibrationAccuracy": 0.987707,
+  "displacementScale": 4.332324,
+  "environment": {
+    "biome": "desert biome",
+    "region": "Americas"
+  },
+  "highest_available_res": 8192,
+  "id": "vimldgeg",
+  "json": {
+    "contentLength": 12693,
+    "uri": "vimldgeg.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#E2E2E2",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 204325232,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 158,
+      "name": "AO",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "vimldgeg_8K_AO.exr"
+    },
+    {
+      "averageColor": "#E2E2E2",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 29777901,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 158,
+      "name": "AO",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "vimldgeg_8K_AO.jpg"
+    },
+    {
+      "averageColor": "#754431",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 115152798,
+      "maxIntensity": 101,
+      "mimeType": "image/x-exr",
+      "minIntensity": 67,
+      "name": "Basecolor",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "vimldgeg_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#754431",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 55468546,
+      "maxIntensity": 101,
+      "mimeType": "image/jpeg",
+      "minIntensity": 67,
+      "name": "Basecolor",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "vimldgeg_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 193075393,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "vimldgeg_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 13097251,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "vimldgeg_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 212317304,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "vimldgeg_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 48459467,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "vimldgeg_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 261801701,
+      "maxIntensity": 149,
+      "mimeType": "image/x-exr",
+      "minIntensity": 105,
+      "name": "Displacement",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "vimldgeg_8K_Displacement.exr"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 3959759,
+      "maxIntensity": 149,
+      "mimeType": "image/jpeg",
+      "minIntensity": 105,
+      "name": "Displacement",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "vimldgeg_8K_Displacement.jpg"
+    },
+    {
+      "averageColor": "#222222",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 159893231,
+      "maxIntensity": 39,
+      "mimeType": "image/x-exr",
+      "minIntensity": 25,
+      "name": "Gloss",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vimldgeg_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#222222",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 24256104,
+      "maxIntensity": 39,
+      "mimeType": "image/jpeg",
+      "minIntensity": 25,
+      "name": "Gloss",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vimldgeg_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#8081F9",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 207031282,
+      "maxIntensity": 187,
+      "mimeType": "image/x-exr",
+      "minIntensity": 93,
+      "name": "Normal",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "vimldgeg_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#8081F9",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 81995024,
+      "maxIntensity": 187,
+      "mimeType": "image/jpeg",
+      "minIntensity": 93,
+      "name": "Normal",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "vimldgeg_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#DDDDDD",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 142977361,
+      "maxIntensity": 230,
+      "mimeType": "image/x-exr",
+      "minIntensity": 216,
+      "name": "Roughness",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vimldgeg_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#DDDDDD",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 22393715,
+      "maxIntensity": 230,
+      "mimeType": "image/jpeg",
+      "minIntensity": 216,
+      "name": "Roughness",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vimldgeg_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 240654043,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "vimldgeg_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 30358991,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "vimldgeg_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "1x1 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.035 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "tiling_directions",
+      "name": "Tiling Directions",
+      "value": [
+        "x",
+        "y"
+      ]
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "8192 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Canyon Sandstone Rock",
+  "pack": null,
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 257822,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vimldgeg_Grid_360.png"
+      },
+      {
+        "contentLength": 349771,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vimldgeg_Grid_420.png"
+      },
+      {
+        "contentLength": 1036665,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vimldgeg_Grid_720.png"
+      },
+      {
+        "contentLength": 1415250,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vimldgeg_Grid_840.png"
+      },
+      {
+        "contentLength": 2905786,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "vimldgeg_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 5415728,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "vimldgeg_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 11571190,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "vimldgeg_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 22239121,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "vimldgeg_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 3170814,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "vimldgeg_PopupTiled_1440.png"
+      },
+      {
+        "contentLength": 5933296,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "vimldgeg_PopupTiled_1920.png"
+      },
+      {
+        "contentLength": 12611405,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "vimldgeg_PopupTiled_2880.png"
+      },
+      {
+        "contentLength": 23960952,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "vimldgeg_PopupTiled_3840.png"
+      },
+      {
+        "contentLength": 3155592,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vimldgeg_Popup_1440.png"
+      },
+      {
+        "contentLength": 5891019,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vimldgeg_Popup_1920.png"
+      },
+      {
+        "contentLength": 12603798,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vimldgeg_Popup_2880.png"
+      },
+      {
+        "contentLength": 24151438,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vimldgeg_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-16 22:19:14",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "revision": 0,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "surface",
+    "color": [
+      "Red"
+    ],
+    "contains": [
+      "rocks",
+      "sandstone"
+    ],
+    "country": "United States",
+    "descriptive": [
+      "dry",
+      "old",
+      "eroded",
+      "weathered",
+      "rough"
+    ],
+    "environment": [
+      "desert biome"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [
+      "exterior"
+    ],
+    "locations": {
+      "Americas": {
+        "United States": {}
+      }
+    },
+    "maxSize": 1,
+    "minSize": 1,
+    "name": "Canyon Sandstone Rock",
+    "orientation": [
+      "floor"
+    ],
+    "region": "Americas",
+    "state": [
+      "old"
+    ],
+    "subject_matter": "nature",
+    "theme": [
+      "outdoors",
+      "utah",
+      "moab",
+      "rock-formations",
+      "canyons",
+      "rocky landscapes",
+      "deserts",
+      "arid",
+      "nature",
+      "ground"
+    ]
+  },
+  "tags": [
+    "red",
+    "outdoors",
+    "utah",
+    "moab",
+    "rock-formations",
+    "canyons",
+    "rocky landscapes",
+    "deserts",
+    "arid",
+    "nature",
+    "ground",
+    "rocks",
+    "sandstone",
+    "dry",
+    "old",
+    "weathered",
+    "rough"
+  ],
+  "texelDensity": 8192,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 307934897,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/vimldgeg_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 92129738,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/vimldgeg_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 23128689,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/vimldgeg_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1825067,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/vimldgeg_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
